@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Ashmit Robin  
 
-🎯 **Aspiring Data Scientist | Programmer | Tech Enthusiast**  
+🎯 **Aspiring Full Stack Developer | Programmer | Tech Enthusiast**  
 
 ---
 
@@ -13,19 +13,17 @@ When I’m not coding, I’m probably exploring new tech stacks or debugging the
 
 ### 🧠 Skills & Expertise  
 **Programming Languages:**  
-- C | C++ | Java | SQL | PHP | JavaScript | HTML | CSS  | Python | Excel
+- C | C++ | Java | MySQL | JavaScript | HTML | CSS  | Python | React | Node.js | Express.js | Streamlit | NumPy 
 
 **Core Skills:**  
 - Object-Oriented Programming (OOP)  
-- Database Design & Query Optimization (MySQL / SQL)  
+- Database Design & Query Optimization (MySQL / MongoDB)  
 - Frontend Development (HTML, CSS, JS)  
-- Backend Logic (PHP, Java)  
+- Backend Logic (Python, Java)  
 - Problem Solving & Algorithm Design  
 - Responsive Web Design & Debugging
-- Python
-- MS Excel
-- Data Analysis
-- Data Entry 
+- Framework - React and Angular
+- Environmemt - Node.js and Express.js
 
 ---
 
