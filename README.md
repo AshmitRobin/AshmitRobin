@@ -12,8 +12,8 @@ When I’m not coding, I’m probably exploring new tech stacks or debugging the
 ---
 
 ### 🧠 Skills & Expertise  
-**Programming Languages:**  
-- C | C++ | Java | MySQL | JavaScript | HTML | CSS  | Python | React | Node.js | Express.js | Streamlit | NumPy 
+**Languages and Frameworks :**  
+- C | C++ | Java | MySQL | JavaScript | HTML | CSS  | Python | React | Angular |  Node.js | Express.js | Streamlit | NumPy 
 
 **Core Skills:**  
 - Object-Oriented Programming (OOP)  
@@ -23,7 +23,7 @@ When I’m not coding, I’m probably exploring new tech stacks or debugging the
 - Problem Solving & Algorithm Design  
 - Responsive Web Design & Debugging
 - Framework - React and Angular
-- Environmemt - Node.js and Express.js
+- Backend Technologies - Node.js and Express.js
 
 ---
 
