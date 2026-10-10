@@ -21,9 +21,9 @@
         Hey! I'm <b>Ashmit Robin</b>, a second-year BCA student at <b>Christ University, Bengaluru</b>. I love crafting efficient, clean and user-friendly software, whether it's backend logic or frontend magic. When I'm not coding, I'm probably exploring new tech stacks or marketing a tech fest.
       </p>
       <p>
-        🎯 Marketing Committee member, <b>INTERFACE</b> (national-level IT fest)<br>
         💼 Summer intern at <b>Suvidha Foundation</b><br>
-        🌱 Exploring: Full Stack, APIs and Cloud, DSA in C++
+        🌱 Exploring: Full Stack, APIs, DSA in C++
+        🎯 Lead Guitarist, <b>Aakrosh Band</b> (Dept. of Professional Studies<br>
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
@@ -76,24 +76,24 @@
       <table>
         <tr>
           <td align="center" width="50%">
-            <img src="assets/oracle-data-platform.jpeg" alt="Oracle Data Platform 2025 Certified Foundations Associate" width="100%" /><br>
+            <img src="oracle-data-platform.jpeg" alt="Oracle Data Platform 2025 Certified Foundations Associate" width="100%" /><br>
             <b>Oracle Data Platform 2025</b><br>
             <sub>Certified Foundations Associate • Oracle University • May 2026</sub>
           </td>
           <td align="center" width="50%">
-            <img src="assets/infosys-python-foundation.jpeg" alt="Infosys Springboard Python Foundation Certification" width="100%" /><br>
+            <img src="infosys-python-foundation.jpeg" alt="Infosys Springboard Python Foundation Certification" width="100%" /><br>
             <b>Python Foundation</b><br>
             <sub>Infosys Springboard • Jun 2026</sub>
           </td>
         </tr>
         <tr>
           <td align="center" width="50%">
-            <img src="assets/uipath-intro-automation.jpeg" alt="UiPath Introduction to Automation" width="100%" /><br>
+            <img src="uipath-intro-automation.jpeg" alt="UiPath Introduction to Automation" width="100%" /><br>
             <b>Introduction to Automation</b><br>
             <sub>UiPath • Jul 2026</sub>
           </td>
           <td align="center" width="50%">
-            <img src="assets/uipath-automation-explorer.jpeg" alt="UiPath Automation Explorer with Studio Web" width="100%" /><br>
+            <img src="uipath-automation-explorer.jpeg" alt="UiPath Automation Explorer with Studio Web" width="100%" /><br>
             <b>Automation Explorer with UiPath Studio Web</b><br>
             <sub>UiPath • Jul 2026</sub>
           </td>
