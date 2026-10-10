@@ -2,13 +2,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ashmit%20Robin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Programmer%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="Ashmit Robin" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&height=40&lines=Building+clean+full-stack+apps;React+%2B+Node.js+%2B+MySQL;DSA+in+C%2B%2B+%7C+Java+%7C+Python;Automating+boring+things+with+UiPath;Lead+Guitarist+at+Aakrosh+Band;Debugging+the+universe+one+semicolon+at+a+time" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=Building+clean+full-stack+apps;React+%2B+Node.js+%2B+MySQL;DSA+in+C%2B%2B+%7C+Java+%7C+Python;Automating+boring+things+with+UiPath;Lead+Guitarist+at+Aakrosh+Band;Debugging+the+universe+one+semicolon+at+a+time" alt="Typing animation" />
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlsaW5lIHBvaW50cz0iOCA2IDIgMTIgOCAxOCIvPjxwb2x5bGluZSBwb2ludHM9IjE2IDYgMjIgMTIgMTYgMTgiLz48bGluZSB4MT0iMTQiIHkxPSI0IiB4Mj0iMTAiIHkyPSIyMCIvPjwvc3ZnPg%3D%3D" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/BCA-Christ%20University-0A66C2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Christ University" />
-  <img src="https://img.shields.io/badge/Lead%20Guitarist-Aakrosh%20Band-DC2626?style=for-the-badge&logo=spotify&logoColor=white" alt="Lead Guitarist, Aakrosh Band" />
+  <img src="https://img.shields.io/badge/Lead%20Guitarist-Aakrosh%20Band-DC2626?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgdHJhbnNmb3JtPSJyb3RhdGUoNDUgMTIgMTIpIiBmaWxsPSJ3aGl0ZSI%2BPHJlY3QgeD0iMTEiIHk9IjEuNSIgd2lkdGg9IjIiIGhlaWdodD0iMTEiLz48cmVjdCB4PSIxMCIgeT0iMCIgd2lkdGg9IjQiIGhlaWdodD0iMy4yIiByeD0iMSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTUuNSIgcj0iNC4zIi8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxOS42IiByPSIzLjciLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjE3IiByPSIxLjMiIGZpbGw9IiNEQzI2MjYiLz48L2c%2BPC9zdmc%2B" alt="Lead Guitarist, Aakrosh Band" />
 
   <br>
 
