@@ -2,13 +2,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ashmit%20Robin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Programmer%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="Ashmit Robin" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&height=40&lines=Building+clean+full-stack+apps;React+%2B+Node.js+%2B+MySQL;DSA+in+C%2B%2B+%7C+Java+%7C+Python;Automating+boring+things+with+UiPath;Debugging+the+universe+one+semicolon+at+a+time" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&height=40&lines=Building+clean+full-stack+apps;React+%2B+Node.js+%2B+MySQL;DSA+in+C%2B%2B+%7C+Java+%7C+Python;Automating+boring+things+with+UiPath;Lead+Guitarist+at+Aakrosh+Band;Debugging+the+universe+one+semicolon+at+a+time" alt="Typing animation" />
 
   <br><br>
 
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/BCA-Christ%20University-0A66C2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Christ University" />
-  <img src="https://img.shields.io/badge/INTERFACE-Marketing%20Committee-F97316?style=for-the-badge&logo=rocket&logoColor=white" alt="INTERFACE Marketing Committee" />
+  <img src="https://img.shields.io/badge/Lead%20Guitarist-Aakrosh%20Band-DC2626?style=for-the-badge&logo=spotify&logoColor=white" alt="Lead Guitarist, Aakrosh Band" />
 
   <br>
 
@@ -26,12 +26,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=60000&color=58A6FF&center=true&width=400&height=40&lines=About+Me" alt="About Me" />
 </div>
 
-Hey! I'm **Ashmit Robin**, a second-year BCA student at **Christ University, Bengaluru**. I love crafting efficient, clean and user-friendly software, whether it's backend logic or frontend magic. When I'm not coding, I'm probably exploring new tech stacks or marketing a tech fest.
+Hey! I'm **Ashmit Robin**, a second-year BCA student at **Christ University, Bengaluru**. I love crafting efficient, clean and user-friendly software, whether it's backend logic or frontend magic. When I'm not coding, I'm probably exploring new tech stacks or jamming on my guitar.
 
+- 🎸 Lead Guitarist, **Aakrosh Band** (Dept. of Professional Studies)
 - 💼 Summer intern at **Suvidha Foundation**
 - 🌱 Exploring: Full Stack, APIs and Cloud, DSA in C++
-- 🎸 Lead Guitarist, **Aakrosh Band** (Dept. of Professional Studies)
-- 📣 Marketing Committee member, **INTERFACE** (national-level IT fest)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
 
