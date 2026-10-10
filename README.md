@@ -28,9 +28,9 @@
 
 Hey! I'm **Ashmit Robin**, a second-year BCA student at **Christ University, Bengaluru**. I love crafting efficient, clean and user-friendly software, whether it's backend logic or frontend magic. When I'm not coding, I'm probably exploring new tech stacks or jamming on my guitar.
 
-- 🎸 Lead Guitarist, **Aakrosh Band** (Dept. of Professional Studies)
 - 💼 Summer intern at **Suvidha Foundation**
 - 🌱 Exploring: Full Stack, APIs and Cloud, DSA in C++
+- 🎸 Lead Guitarist, **Aakrosh Band** (Dept. of Professional Studies)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
 
