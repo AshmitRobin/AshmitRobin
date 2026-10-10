@@ -37,7 +37,7 @@ When I’m not coding, I’m probably exploring new tech stacks or debugging the
 
 ### 📫 Let’s Connect  
 📧 **Email:** [ashmit.robin@bcah.christuniversity.in](mailto:ashmit.robin@bcah.christuniversity.in)  
-🌐 **LinkedIn:** https://www.linkedin.com/in/ashmit-robin-3a84183b9?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+🌐 **LinkedIn:** https://www.linkedin.com/in/ashmit-robin
 
 ---
 
