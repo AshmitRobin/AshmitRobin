@@ -22,7 +22,7 @@
       </p>
       <p>
         💼 Summer intern at <b>Suvidha Foundation</b><br>
-        🌱 Exploring: Full Stack, APIs, DSA in C++
+        🌱 Exploring: Full Stack, APIs, DSA in C++<br>
         🎯 Lead Guitarist, <b>Aakrosh Band</b> (Dept. of Professional Studies<br>
       </p>
     </td>
