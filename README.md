@@ -56,7 +56,7 @@ Hey! I'm **Ashmit Robin**, a second-year BCA student at **Christ University, Ben
   </a>
 
   <p>
-    Faculty data from engineering colleges across India is collected, and a statistical dashboard is built on top of it with <b>React + Node.js</b>, using <b>MySQL</b> for storing records.
+    A full-stack analytics dashboard where faculty records are entered and stored in a <b>MySQL database</b> and the app turns them into live statistics and charts, such as faculty by designation, faculty by department and top colleges by faculty count. Built with <b>React + Node.js</b>.
   </p>
 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
