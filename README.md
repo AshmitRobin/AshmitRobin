@@ -52,6 +52,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=60000&color=58A6FF&center=true&width=400&height=40&lines=Present+Status" alt="Present Status" />
 </div>
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
 | | |
 |---|---|
 | 🔨 **Building** | Full-stack web apps with React, Node.js and MySQL |
@@ -61,6 +65,13 @@
 | 🔌 **Learning** | Backend development and API design |
 | 🤖 **Experimenting** | Automation with UiPath |
 | 🎯 **Working towards** | Becoming a stronger software engineer |
+
+</td>
+    <td width="40%" align="center">
+      <img src="terminal.svg" width="300" alt="Animated terminal typing commands with a music equalizer" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
 
@@ -103,9 +114,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=60000&color=58A6FF&center=true&width=400&height=40&lines=GitHub+Pulse" alt="GitHub Pulse" />
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AshmitRobin&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AshmitRobin&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="300" alt="Most used languages" />
-  <br>
   <img src="https://streak-stats.demolab.com/?user=AshmitRobin&theme=tokyonight&hide_border=true" width="500" alt="Streak stats" />
 </div>
 
