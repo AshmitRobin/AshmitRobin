@@ -52,14 +52,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=60000&color=58A6FF&center=true&width=400&height=40&lines=Present+Status" alt="Present Status" />
 </div>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
 
 | | |
 |---|---|
-| 🔨 **Building** | Full-stack web apps with React, Node.js and MySQL |
-| 🏢 **Interning** | Full Stack Developer at Centre for AI, Christ University |
+| 🔨 **Building** | Full-stack apps with React, Node.js, MySQL |
+| 🏢 **Interning** | Full Stack Intern at Centre for AI |
 | 📚 **Strengthening** | Java, Python and C++ |
 | 🧩 **Practicing** | Data Structures and Algorithms |
 | 🔌 **Learning** | Backend development and API design |
@@ -67,8 +67,8 @@
 | 🎯 **Working towards** | Becoming a stronger software engineer |
 
 </td>
-    <td width="40%" align="center">
-      <img src="terminal.svg" width="300" alt="Animated terminal typing commands with a music equalizer" />
+    <td width="45%" align="center" valign="middle">
+      <img src="terminal.svg" width="100%" alt="Animated terminal typing commands with a music equalizer" />
     </td>
   </tr>
 </table>
