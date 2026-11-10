@@ -103,8 +103,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=60000&color=58A6FF&center=true&width=400&height=40&lines=GitHub+Pulse" alt="GitHub Pulse" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AshmitRobin&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitRobin&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="300" alt="Most used languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AshmitRobin&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AshmitRobin&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="300" alt="Most used languages" />
   <br>
   <img src="https://streak-stats.demolab.com/?user=AshmitRobin&theme=tokyonight&hide_border=true" width="500" alt="Streak stats" />
 </div>
@@ -122,8 +122,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshmitRobin/AshmitRobin/output/github-snake.svg" />
     <img alt="Contribution graph with animated snake" src="https://raw.githubusercontent.com/AshmitRobin/AshmitRobin/output/github-snake-dark.svg" width="95%" />
   </picture>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshmitRobin&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph" />
+  <br><br>
+  <img src="https://ghchart.rshah.org/58a6ff/AshmitRobin" width="95%" alt="Contribution chart" />
 </div>
 
 <br>
