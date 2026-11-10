@@ -15,6 +15,7 @@
   <a href="https://www.linkedin.com/in/ashmit-robin-3a84183b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/ashmitrobin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:ashmit.robin@bcah.christuniversity.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AshmitRobin&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 </div>
 
 <br>
@@ -26,11 +27,40 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=60000&color=58A6FF&center=true&width=400&height=40&lines=About+Me" alt="About Me" />
 </div>
 
-Hey! I'm **Ashmit Robin**, a second-year BCA student at **Christ University, Bengaluru**. I love crafting efficient, clean and user-friendly software, whether it's backend logic or frontend magic. When I'm not coding, I'm probably exploring new tech stacks or jamming on my guitar.
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
-- 💼 Ex- Summer intern at **Suvidha Foundation**
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26" alt="wave" /> Hey! I'm **Ashmit Robin**, a second-year BCA student at **Christ University, Bengaluru**. I love crafting efficient, clean and user-friendly software, whether it's backend logic or frontend magic. When I'm not coding, I'm probably exploring new tech stacks or jamming on my guitar.
+
+- 💼 **Full Stack Developer Intern** at **Centre for AI, Christ University**
+- 🧳 Ex-Summer intern at **Suvidha Foundation**
 - 🌱 Exploring: Full Stack, APIs and Cloud, DSA in C++
 - 🎸 Lead Guitarist, **Aakrosh Band** (Dept. of Professional Studies)
+
+</td>
+    <td width="38%" align="center">
+      <img src="assets/orbit.svg" width="280" alt="Animated spinning planet with an orbiting satellite" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
+
+<!-- ============ PRESENT STATUS ============ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=60000&color=58A6FF&center=true&width=400&height=40&lines=Present+Status" alt="Present Status" />
+</div>
+
+| | |
+|---|---|
+| 🔨 **Building** | Full-stack web apps with React, Node.js and MySQL |
+| 🏢 **Interning** | Full Stack Developer at Centre for AI, Christ University |
+| 📚 **Strengthening** | Java, Python and C++ |
+| 🧩 **Practicing** | Data Structures and Algorithms |
+| 🔌 **Learning** | Backend development and API design |
+| 🤖 **Experimenting** | Automation with UiPath |
+| 🎯 **Working towards** | Becoming a stronger software engineer |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
 
@@ -77,6 +107,21 @@ Hey! I'm **Ashmit Robin**, a second-year BCA student at **Christ University, Ben
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitRobin&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="300" alt="Most used languages" />
   <br>
   <img src="https://streak-stats.demolab.com/?user=AshmitRobin&theme=tokyonight&hide_border=true" width="500" alt="Streak stats" />
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
+
+<!-- ============ CONTRIBUTION SNAKE ============ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=60000&color=58A6FF&center=true&width=500&height=40&lines=Contribution+Snake+%F0%9F%90%8D" alt="Contribution Snake" />
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshmitRobin/AshmitRobin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshmitRobin/AshmitRobin/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/AshmitRobin/AshmitRobin/output/github-snake-dark.svg" width="95%" />
+  </picture>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshmitRobin&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph" />
 </div>
