@@ -40,7 +40,7 @@
 
 </td>
     <td width="38%" align="center">
-      <img src="assets/orbit.svg" width="280" alt="Animated spinning planet with an orbiting satellite" />
+      <img src="orbit.svg" width="280" alt="Animated spinning planet with an orbiting satellite" />
     </td>
   </tr>
 </table>
@@ -113,14 +113,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
 
-<!-- ============ CONTRIBUTION SNAKE ============ -->
+<!-- ============ CONTRIBUTION ============ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=60000&color=58A6FF&center=true&width=500&height=40&lines=Contribution+Snake+%F0%9F%90%8D" alt="Contribution Snake" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=60000&color=58A6FF&center=true&width=400&height=40&lines=Contribution" alt="Contribution" />
   <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshmitRobin/AshmitRobin/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshmitRobin/AshmitRobin/output/github-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/AshmitRobin/AshmitRobin/output/github-snake-dark.svg" width="95%" />
+    <img alt="Contribution graph with animated snake" src="https://raw.githubusercontent.com/AshmitRobin/AshmitRobin/output/github-snake-dark.svg" width="95%" />
   </picture>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshmitRobin&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph" />
