@@ -33,7 +33,6 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26" alt="wave" /> Hey! I'm **Ashmit Robin**, a second-year BCA student at **Christ University, Bengaluru**. I love crafting efficient, clean and user-friendly software, whether it's backend logic or frontend magic. When I'm not coding, I'm probably exploring new tech stacks or jamming on my guitar.
 
-- 💼 **Full Stack Developer Intern** at **Centre for AI, Christ University**
 - 🧳 Ex-Summer intern at **Suvidha Foundation**
 - 🌱 Exploring: Full Stack, APIs and Cloud, DSA in C++
 - 🎸 Lead Guitarist, **Aakrosh Band** (Dept. of Professional Studies)
